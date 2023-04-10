@@ -11,7 +11,6 @@
 9. [2015年](https://github.com/wmenjoy/my_poetries/issues/3)
 10.[2014年](https://github.com/wmenjoy/my_poetries/issues/2)
 11.[2013年](https://github.com/wmenjoy/my_poetries/issues/1)
-12. 
 
 # 2013年7月15日于七渡孤山寨
 
